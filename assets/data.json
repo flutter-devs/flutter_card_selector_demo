@@ -1,0 +1,158 @@
+[
+  {
+    "id": "0",
+    "bank": "Monzo",
+    "branch": "visa",
+    "type": "credit",
+    "number": "222 4356 2345 1123",
+    "color": 4294924066,
+    "background_layer": "circles",
+    "balance": "$ 15 118",
+    "transactions": [
+      {
+        "mode": "Gym Aerobics",
+        "time": "12:01 PM",
+        "amount": "-$100",
+        "icon": "glassCocktail"
+      },
+      {
+        "mode": "Cafe Mountain",
+        "time": "8:24 PM",
+        "amount": "-$150",
+        "icon":"silverware"
+      },
+      {
+        "mode": "Ola",
+        "time": "6:00 PM",
+        "amount": "-$30",
+        "icon": "car"
+      },
+      {
+        "mode": "Indigo",
+        "time": "2:13 PM",
+        "amount": "-$800",
+        "icon": "airplaneTakeoff"
+      },
+      {
+        "mode": "MakeUpArtist",
+        "time": "5:13 PM",
+        "amount": "-$50",
+        "icon": "contentCut"
+      },
+      {
+        "mode": "Market",
+        "time": "8:13 PM",
+        "amount": "-$100",
+        "icon": "shopping"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "bank": "Aeologic",
+    "branch": "mastercard",
+    "type": "debit",
+    "number": "4236 1234 3324 4632",
+    "color": 4294938368,
+    "background_layer": "layers",
+    "balance": "€ 5 400",
+    "transactions": [
+      {
+        "mode": "Ola",
+        "time": "10:00 PM",
+        "amount": "-$30",
+        "icon":"car"
+      },
+      {
+        "mode": "Movie",
+        "time": "5:00 PM",
+        "amount": "-$34",
+        "icon": "movie"
+      },
+      {
+        "mode": "Shopping",
+        "time": "3:21 AM",
+        "amount": "-$309",
+        "icon": "shopping"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "bank": "Flutter",
+    "branch": "visa",
+    "type": "credit",
+    "number": "3333 4231 2211 2347",
+    "color": 4287669422,
+    "background_layer": "dots",
+    "balance": "$ 740",
+    "transactions": [
+      {
+        "mode": "Bitcoin",
+        "time": "5:00 PM",
+        "amount": "-$24",
+        "icon": "coins"
+      },
+      {
+        "mode": "Cafe Coffee Day",
+        "time": "2:13 PM",
+        "amount": "-$52",
+        "icon": "contentCut"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "bank": "GoBank",
+    "branch": "visa",
+    "type": "debit",
+    "number": "4444 3333 2222 1111",
+    "color": 4278238420,
+    "background_layer": "circles",
+    "balance": "€ 50 900",
+    "transactions": [
+      {
+        "mode": "OYO Hotel",
+        "time": "10:13 PM",
+        "amount": "-$213",
+        "icon": "hotel"
+      },
+      {
+        "mode": "Clothes",
+        "time": "1:30 PM",
+        "amount": "-$428",
+        "icon": "cloth"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "bank": "World Bank",
+    "branch": "mastercard",
+    "type": "credit",
+    "number": "4222 3421 2231 2211",
+    "color": 4294951175,
+    "background_layer": "layers",
+    "balance": "$ 2 009",
+    "transactions": [
+      {
+        "mode": "Hospital",
+        "time": "8:24 PM",
+        "amount": "-$224",
+        "icon":"tennis"
+      },
+      {
+        "mode": "IceCream",
+        "time": "8:00 PM",
+        "amount": "-$22",
+        "icon": "iceCream"
+      },
+      {
+        "mode": "Provisional Store",
+        "time": "2:15 PM",
+        "amount": "-$100",
+        "icon": "store"
+      }
+    ]
+  }
+]
